@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Demo
-You can access the live application here:[Live Weather](https://kraftshala-weather.netlify.app/)
+You can access the live application here: [Live Weather](https://weatherreport-26orypmi8-tthouda-mounikas-projects.vercel.app/)
 
 ## Available Scripts
 
