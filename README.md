@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Demo
-You can access the live application here: Weather App
+You can access the live application here:[Live Weather](https://kraftshala-weather.netlify.app/)
 
 ## Available Scripts
 
-In the project directory, you can run: https://kraftshala-weather.netlify.app/
+In the project directory, you can run:
 
 ### `npm start`
 
